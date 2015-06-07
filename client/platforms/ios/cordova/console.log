@@ -1,0 +1,8 @@
+2015-06-07 13:32:45.333 image-share[9421:557396] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/intuinno/Library/Developer/CoreSimulator/Devices/33F43DAC-DBF6-4D0D-A46B-E01369AFDD9C/data/Containers/Data/Application/966728C0-11C7-4ADF-841D-CEF245680FB8/Library/Cookies/Cookies.binarycookies
+2015-06-07 13:32:45.398 image-share[9421:557396] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-07 13:32:45.399 image-share[9421:557396] Multi-tasking -> Device: YES, App: YES
+2015-06-07 13:32:45.400 image-share[9421:557396] Unlimited access to network resources
+2015-06-07 13:32:45.466 image-share[9421:557396] [CDVTimer][keyboard] 0.081003ms
+2015-06-07 13:32:45.466 image-share[9421:557396] [CDVTimer][TotalPluginStartup] 1.484990ms
+2015-06-07 13:32:45.686 image-share[9421:557396] Resetting plugins due to page load.
+2015-06-07 13:32:45.807 image-share[9421:557396] Finished load of: file:///Users/intuinno/Library/Developer/CoreSimulator/Devices/33F43DAC-DBF6-4D0D-A46B-E01369AFDD9C/data/Containers/Bundle/Application/AFE5092A-9EC2-46FA-B094-62E06F54A36F/image-share.app/www/index.html
